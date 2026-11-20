@@ -166,8 +166,8 @@ print(response.json())
 
 ## Team
 
-Developed by **GeoCongo AI** for the **NASA Space Apps Challenge 2026**.
-
+ **GeoCongo AI** is a dynamic, multidisciplinary team driven by a common goal: innovating for the **NASA Space Apps Challenge 2026**.
+ 
 | Member | Role |
 |---|---|
 | **Gérard** | Lead Backend Developer and Planetary Data Curator · Field Collector (Tibesti, Chad) · Planetary targets (Marius Hills / Moon, Jezero Crater / Mars) |
